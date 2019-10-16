@@ -1,3 +1,5 @@
+
+
 header {
 	text-align: center;
 	min-height: 100px;
@@ -19,12 +21,11 @@ font-style: normal;
 font-size: 18;
 text-align: center;
 border-bottom: solid;
-border-color: #EFA710;
+border-color: orange;
 border-width: 2px;
 }
 
-
-nav a:hover {color: #42AC73}
+nav a:hover {color: orange}
 nav a {color: black}
 
 nav ul{
@@ -37,7 +38,6 @@ padding: 30px 30px;
 
 /* NAV END */
 
-/* MAIN START */
 main {
 font-family: nobel, sans-serif;
 font-weight: 200;
@@ -54,7 +54,7 @@ main img {
   	text-align: center;
 }
 
-div img {
+article img {
 	margin-left: auto;
   	margin-right: auto;
   	width: 30%;
@@ -62,54 +62,6 @@ div img {
   	border-radius: 50px;
   	padding: 25px;
 }
-
-article{
-	max-width: 600px;
-	margin:0 auto;
-  	text-align: center;
-  	padding-bottom: 30px;
-}
-
-article h2{
-	font-family: nobel, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-	text-align: center;
-	padding: 15px;
-	font-size: 18pt;
-	color: black;
-}
-
-article h3{
-	font-family: nobel, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	text-align: center;
-	font-size: 14pt;
-	padding: 10px;
-	color: #42AC73;
-}
-
-article ul{
-	list-style-type: circle;
-	margin:0 auto;
-	padding: 10px;
-}
-
-article ol{
-	list-style-type: upper-hexadecimal; 
-}
-article li {
-	font-family: nobel, sans-serif;
-	font-weight: 200;
-	font-style: normal;
-	text-align: center;
-	padding: 15px;
-	font-size: 13pt;
-	margin:0 auto;
-}
-
-/* MAIN END */
 
 footer {
 	font-family: nobel, sans-serif; 
@@ -119,7 +71,8 @@ footer {
 	text-align: center;
 	padding: 20px;
 	border-top: solid;
-	border-color: #EFA710;
+	border-color: orange;
 	border-width: 2px;
-	background-color: #EFA710;
+	background-color: orange;
+
 }
