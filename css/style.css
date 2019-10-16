@@ -108,7 +108,9 @@ article li {
 	font-size: 13pt;
 	margin:0 auto;
 }
-
+section{
+	background-image: url(../images/illustrations.jpg);
+}
 /* MAIN END */
 
 footer {
