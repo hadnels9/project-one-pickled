@@ -2,10 +2,11 @@ header {
 	text-align: center;
 	min-height: 100px;
 	margin-top: 50px;
-	background-image: url(../images/pickledlogo.jpg);
-	background-repeat: no-repeat;
-	background-position: center;
 	background-size: 380px;
+}
+
+header img {
+	padding-bottom: 10px;
 }
 
 a {
@@ -113,6 +114,7 @@ section{
 }
 /* MAIN END */
 
+/*FOOTER START*/
 footer {
 	font-family: nobel, sans-serif; 
 	font-weight: 200;
