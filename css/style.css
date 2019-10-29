@@ -98,7 +98,7 @@ article ul{
 }
 
 article ol{
-	list-style-type: upper-hexadecimal; 
+	list-style-type: upper-hexadecimal;
 }
 article li {
 	font-family: nobel, sans-serif;
@@ -109,9 +109,11 @@ article li {
 	font-size: 13pt;
 	margin:0 auto;
 }
+
 section{
 	background-image: url(../images/illustrations.jpg);
 }
+
 /* MAIN END */
 
 /*FOOTER START*/
